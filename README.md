@@ -1,1 +1,5 @@
 # agenticAIforme
+Goal:
+
+
+Agents role:
