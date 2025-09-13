@@ -1,4 +1,4 @@
-# agenticAIforme
+# DepartmentAcademicCalendar
 # Goal
 Generate a Department Academic Calendar using the Institute Academic Calendar (holidays, exams, assignments) and additional inputs from department activity coordinators. The calendar should allow controlled.
 
